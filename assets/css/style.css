@@ -66,10 +66,10 @@ div.count-particles h1{
   }
   div.count-particles h2{
    position: absolute;
-    top: 45%;
+    top: 40%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -80%)
+    transform: translate(-50%, -50%)
   }
   div.count-particles p{
    position: absolute;
