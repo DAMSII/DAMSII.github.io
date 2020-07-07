@@ -47,7 +47,9 @@ canvas{
 
 /* ---- particles.js container ---- */
 
-#particles-js{
+#part
+
+les-js{
   width: 100%;
   height: 100%;
   background-color: #012345;
